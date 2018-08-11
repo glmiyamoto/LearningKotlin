@@ -1,4 +1,4 @@
-# LearningKotlin
+# Learning Kotlin
 
 ### Kotlin is a great fit for developing Android applications, bringing all of the advantages of a modern language to the Android platform without introducing any new restrictions:
 
